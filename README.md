@@ -99,3 +99,10 @@
 ![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120347.png)
 ![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120416.png)
 ![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120426.png)
+
+# 💎Login / Create Account Sayfaları
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/4d5f80108a368f0b66ca0b0b69e0e68bfb1464f1/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20174524.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/4d5f80108a368f0b66ca0b0b69e0e68bfb1464f1/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20174534.png)
+
+# 💎404 Hata Sayfası
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/4d5f80108a368f0b66ca0b0b69e0e68bfb1464f1/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20174610.png)
