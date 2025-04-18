@@ -25,12 +25,45 @@
 
 # NOT : Proje'nin front end kısmında değiştirilmesi, back-end kısmında ise eklenilmesi gereken yerler olabilir. Zaman geçtikçe proje güncellenebilir.
 
-# Projede 3 Farklı Alan Bize Eşlik Eder
+# 🔗Projede 3 Farklı Alan Bize Eşlik Eder
 
-# Admin Paneli : Rolü Admin olan kullanıcılar sayfaya erişim sağlayarak; rotalar,yorumlar,üyeler,mesajlar,rehberler ve duyurular gibi alanlar üzerinde CRUD(Create, Read,Update,Delete) işlemlerini yapabilir
-# Kullanıcı/Üye Paneli : Rolü Kullanıcı olanların sayfaya erişim sağlayarak; Rezervasyonlarını(Aktif-Geçmiş-Onay Bekleyen), Profil düzenleme gibi sayfalara erişim sağlayabilir
-# Vitrin Paneli : Rol gerekmeksizin herkesin Traversal Seyahat/Rezervasyon sitesine erişim sağlayıp rotalar,rehberler,iletişim bilgileri gibi verileri görüntüleyebilir
+# 🖇Admin Paneli : Rolü Admin olan kullanıcılar sayfaya erişim sağlayarak; rotalar,yorumlar,üyeler,mesajlar,rehberler ve duyurular gibi alanlar üzerinde CRUD(Create, Read,Update,Delete) işlemlerini yapabilir
+# 🖇Kullanıcı/Üye Paneli : Rolü Kullanıcı olanların sayfaya erişim sağlayarak; Rezervasyonlarını(Aktif-Geçmiş-Onay Bekleyen), Profil düzenleme gibi sayfalara erişim sağlayabilir
+# 🖇Vitrin Paneli : Rol gerekmeksizin herkesin Traversal Seyahat/Rezervasyon sitesine erişim sağlayıp rotalar,rehberler,iletişim bilgileri gibi verileri görüntüleyebilir
 
 # 🧑🏻‍💻 Admin Paneli
 
 # Admin rolündeki kullanıcı, aşağıdaki resimlerde bulunan alanlardaki her şey üzerinde değişiklik yapabilir. Bunlar;
+
+# 📍Dashboard
+## Admin, şirketin durumu ile ilgili tüm istatistikleri buradan görüntüleyebilir
+![Image Alt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20162735.png)
+# 📍Tur Rotaları
+## Admin aktif olan tur rotalarını görüntüleyip gerekli CRUD işlemlerini burada yapabilir
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-16%20180912.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20155612.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20155628.png)
+
+# 📍Rehber Listesi
+## Admin tüm rehberleri burada görüntüleyip; Aktif-Pasif durumunu değiştirebilir, güncelleyebilir ve yeni rehber eklemesi yapabilir
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-16%20180942.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20161042.png)
+
+# 📍Raporlar
+## Admin şirketin durumu ile ilgili PDF Raporu oluşturabilir
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-16%20180949.png)
+
+
+# 📍Mail Gönderme Sayfası
+## Admin buradan kullanıcılara mail gönderimi yapabilir
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-16%20181000.png)
+
+# 📍Rol Listesi
+## Admin buraya rol eklemesi-silmesi ve güncellemesi yapabilir
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-16%20181008.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20162420.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20162719.png)
+
+# 📍Rol İşlemleri
+## Admin sistemi kullanan kullanıcıların üzerinde rol işlemleri gerçekleştirebilir
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20162716.png)
