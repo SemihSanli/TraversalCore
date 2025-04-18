@@ -67,3 +67,35 @@
 # 📍Rol İşlemleri
 ## Admin sistemi kullanan kullanıcıların üzerinde rol işlemleri gerçekleştirebilir
 ![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20162716.png)
+
+# 👨🏻‍🔬Kullanıcı Paneli
+##  Login paneli üzerinden giriş yapmış olan kullanıcı, aşağıdaki resimlerde bulunan tüm bölgeleri görüntüleyebilir
+
+# 💎 Dashboard
+## Kullanıcı profil bilgilerini,profil ayarlarını, aktif olan tur rehberlerini burada görüntüleyebilir.
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/a6dfce3aa583cd1130f6c1baa0d3fcd62f1b0ac9/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120156.png)
+
+# 💎 Son Rotalar
+## Kullanıcı Admin'in eklediği son tur rotalarını burada görüntüler
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120208.png)
+
+# 💎 Profilim
+## Kullanıcı Profil bilgilerini görüntüleyip, isterse güncelleyebilir
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120216.png)
+
+# 💎 Akitf-Geçmiş-Onay Bekleyen Rezervasyonlarım-Yeni Rezervasyon 
+## Kullanıcı bu sayfalarda rezervasyonları ile ilgili bilgileri görüntüleyip dilerse yeni rezervasyon yapabilir
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120221.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120259.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120304.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120310.png)
+
+# 🪟 Vitrin Paneli
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120320.png)
+# 💎 Misafirler aktif tur rotalarını buradan görüntüleyip. Üzerlerine tıklayarak tur ile ilgili bilgi alabilir
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120330.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120336.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120342.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120347.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120416.png)
+![ImageAlt](https://github.com/SemihSanli/TraversalCore/blob/d4d7b1d8e5b478f03e30e621060eba6f6f82e405/ScreenShots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-18%20120426.png)
