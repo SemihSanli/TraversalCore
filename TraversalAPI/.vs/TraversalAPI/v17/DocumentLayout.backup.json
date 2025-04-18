@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Semih\\source\\repos\\TraversalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{702BF27B-FCA2-4A99-BC2E-0263F9A88B60}|TraversalAPI\\TraversalAPI.csproj|c:\\users\\semih\\source\\repos\\traversalapi\\traversalapi\\dal\\entities\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702BF27B-FCA2-4A99-BC2E-0263F9A88B60}|TraversalAPI\\TraversalAPI.csproj|solutionrelative:traversalapi\\dal\\entities\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702BF27B-FCA2-4A99-BC2E-0263F9A88B60}|TraversalAPI\\TraversalAPI.csproj|c:\\users\\semih\\source\\repos\\traversalapi\\traversalapi\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702BF27B-FCA2-4A99-BC2E-0263F9A88B60}|TraversalAPI\\TraversalAPI.csproj|solutionrelative:traversalapi\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702BF27B-FCA2-4A99-BC2E-0263F9A88B60}|TraversalAPI\\TraversalAPI.csproj|c:\\users\\semih\\source\\repos\\traversalapi\\traversalapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702BF27B-FCA2-4A99-BC2E-0263F9A88B60}|TraversalAPI\\TraversalAPI.csproj|solutionrelative:traversalapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702BF27B-FCA2-4A99-BC2E-0263F9A88B60}|TraversalAPI\\TraversalAPI.csproj|c:\\users\\semih\\source\\repos\\traversalapi\\traversalapi\\dal\\context\\visitorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702BF27B-FCA2-4A99-BC2E-0263F9A88B60}|TraversalAPI\\TraversalAPI.csproj|solutionrelative:traversalapi\\dal\\context\\visitorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TraversalAPI\\TraversalAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "TraversalAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TraversalAPI\\TraversalAPI\\Startup.cs",
+              "RelativeToolTip": "TraversalAPI\\Startup.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:00:23.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisitorContext.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TraversalAPI\\TraversalAPI\\DAL\\Context\\VisitorContext.cs",
+              "RelativeDocumentMoniker": "TraversalAPI\\DAL\\Context\\VisitorContext.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TraversalAPI\\TraversalAPI\\DAL\\Context\\VisitorContext.cs",
+              "RelativeToolTip": "TraversalAPI\\DAL\\Context\\VisitorContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:36:37.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TraversalAPI\\TraversalAPI\\DAL\\Entities\\Visitor.cs",
+              "RelativeDocumentMoniker": "TraversalAPI\\DAL\\Entities\\Visitor.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TraversalAPI\\TraversalAPI\\DAL\\Entities\\Visitor.cs",
+              "RelativeToolTip": "TraversalAPI\\DAL\\Entities\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:32:56.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisitorController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TraversalAPI\\TraversalAPI\\Controllers\\VisitorController.cs",
+              "RelativeDocumentMoniker": "TraversalAPI\\Controllers\\VisitorController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TraversalAPI\\TraversalAPI\\Controllers\\VisitorController.cs",
+              "RelativeToolTip": "TraversalAPI\\Controllers\\VisitorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:31:21.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

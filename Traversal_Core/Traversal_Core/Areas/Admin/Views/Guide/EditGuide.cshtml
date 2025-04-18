@@ -1,0 +1,15 @@
+﻿@model Guide
+@{
+    ViewData["Title"] = "EditGuide";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>EditGuide</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="GuideID" />
+    <label>Açıklama</label>
+    <input type="text" class="form-control" asp-for="Description" />
+    <br />
+    <button class="btn btn-outline-success">Rehber Bilgisini Güncelle</button>
+</form>

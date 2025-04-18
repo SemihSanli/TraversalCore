@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\views\\admin\\partialsiderbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\views\\admin\\partialsiderbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\views\\mail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\views\\mail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\views\\guide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\views\\guide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\views\\role\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\views\\role\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\views\\guide\\editguide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\views\\guide\\editguide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\views\\admin\\partialscript.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\views\\admin\\partialscript.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\views\\admin\\partialheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\views\\admin\\partialheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\views\\admin\\partialnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\views\\admin\\partialnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\views\\comment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\views\\comment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\admin\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\admin\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\areas\\member\\views\\reservation\\myoldreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\areas\\member\\views\\reservation\\myoldreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|c:\\users\\semih\\source\\repos\\traversal_core\\traversal_core\\views\\memberlayoutpartial\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3186B8EB-BF07-499B-89D6-6ACF22EE6F73}|Traversal_Core\\Traversal_Core.csproj|solutionrelative:traversal_core\\views\\memberlayoutpartial\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\Role\\UserList.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Views\\Role\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\Role\\UserList.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Views\\Role\\UserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:26:41.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:25:50.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:25:44.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:19:55.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactUsController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\ContactUsController.cs",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Controllers\\ContactUsController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\ContactUsController.cs",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Controllers\\ContactUsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:16:41.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditGuide.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\Guide\\EditGuide.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Views\\Guide\\EditGuide.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\Guide\\EditGuide.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Views\\Guide\\EditGuide.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:16:31.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuideController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\GuideController.cs",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Controllers\\GuideController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\GuideController.cs",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Controllers\\GuideController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:15:59.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\Mail\\Index.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Views\\Mail\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\Mail\\Index.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Views\\Mail\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:13:37.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\MailController.cs",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Controllers\\MailController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\MailController.cs",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Controllers\\MailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:13:34.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartialSiderbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Views\\Admin\\PartialSiderbar.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Views\\Admin\\PartialSiderbar.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Views\\Admin\\PartialSiderbar.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Views\\Admin\\PartialSiderbar.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:12:59.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PartialScript.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Views\\Admin\\PartialScript.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Views\\Admin\\PartialScript.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Views\\Admin\\PartialScript.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Views\\Admin\\PartialScript.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:12:58.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PartialHeader.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Views\\Admin\\PartialHeader.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Views\\Admin\\PartialHeader.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Views\\Admin\\PartialHeader.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Views\\Admin\\PartialHeader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:12:56.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PartialNavbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Views\\Admin\\PartialNavbar.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Views\\Admin\\PartialNavbar.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Views\\Admin\\PartialNavbar.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Views\\Admin\\PartialNavbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:12:49.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:03:26.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:03:29.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:11:37.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\Comment\\Index.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Views\\Comment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Views\\Comment\\Index.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Views\\Comment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T12:58:55.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:58:50.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Admin\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Admin\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Admin\\Controllers\\CityController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:55:29.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyOldReservation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Member\\Views\\Reservation\\MyOldReservation.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Areas\\Member\\Views\\Reservation\\MyOldReservation.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Areas\\Member\\Views\\Reservation\\MyOldReservation.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Areas\\Member\\Views\\Reservation\\MyOldReservation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T09:02:46.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_NavbarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Views\\MemberLayoutPartial\\_NavbarPartial.cshtml",
+              "RelativeDocumentMoniker": "Traversal_Core\\Views\\MemberLayoutPartial\\_NavbarPartial.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\Traversal_Core\\Traversal_Core\\Views\\MemberLayoutPartial\\_NavbarPartial.cshtml",
+              "RelativeToolTip": "Traversal_Core\\Views\\MemberLayoutPartial\\_NavbarPartial.cshtml",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwIsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T08:55:19.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
